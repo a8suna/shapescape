@@ -7,14 +7,11 @@ The github repo contains the raw code of the different versions of the code, but
 
 Please find attached my Kaggle links for each of the piece of codes of the submission.
 
-Full Working CNN 
+Full Working CNN  
+[View Notebook](https://www.kaggle.com/code/carlodemello/scac-projecte9234521a9)
 
-[Link text](https://www.kaggle.com/code/carlodemello/scac-projecte9234521a9)
+Original Visualisation of the Feature maps  
+[View Notebook](https://www.kaggle.com/code/carlodemello/with-full-working-model)
 
-Original Visualisation of the Feature maps
-
-[Link text](https://www.kaggle.com/code/carlodemello/with-full-working-model/edit)
-
-Final extraction of the data
-
-[Link text](https://www.kaggle.com/code/carlodemello/weights-extraction/edit/run/305864920)
+Final extraction of the data  
+[View Notebook](https://www.kaggle.com/code/carlodemello/weights-extraction)
