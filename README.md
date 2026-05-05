@@ -1,6 +1,6 @@
 # For the CNN and feature maps
 
-Go to the Project code folder, as it contains the CNN and code for analysis of feature maps.
+Go to the Project code folder, as it contains the raw code  of the  CNN and code for analysis of feature maps.
 
 
 
