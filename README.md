@@ -10,7 +10,7 @@ The github repo contains the raw code of the different versions of the code, but
 Please find attached my Kaggle links for each of the piece of codes of the submission.
 
 Full Working CNN  
-[View Notebook]([(https://www.kaggle.com/code/carlodemello/scac-projecte9234521a9)])
+[View Notebook](https://www.kaggle.com/code/carlodemello/scac-projecte9234521a9)
 
 Original Visualisation of the Feature maps  
 [View Notebook](https://www.kaggle.com/code/carlodemello/visualisation)
