@@ -1,8 +1,8 @@
 # For the CNN and feature maps
 
-The project has 14 different versions of the Code.
+Go to the Project code folder, as it contains the CNN and code for analysis of feature maps.
 
-The Final code will be the submission, and the notebook is SCAC_Project_Final.
+
 
 The github repo contains the raw code of the different versions of the code, but the datasets were too large to be added on Github, the final dataset with all data from the model is 200MB.
 
