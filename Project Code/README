@@ -3,3 +3,10 @@ CNN.ipynb
 
 The production of the feature maps
 Visualisation.ipynb
+
+
+Full extraction of data
+weights-extract.ipynb
+
+
+These are all the raw codes and require connection with the dataset, please use the kaggle links on the Shapescape homepage to run the models on kaggle.
