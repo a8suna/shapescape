@@ -16,4 +16,4 @@ Original Visualisation of the Feature maps
 [View Notebook](https://www.kaggle.com/code/carlodemello/visualisation)
 
 Final extraction of the data  
-[View Notebook]([https://www.kaggle.com/code/carlodemello/weights-extraction](https://www.kaggle.com/code/carlodemello/weights-extraction))
+[View Notebook](https://www.kaggle.com/code/carlodemello/weights-extraction)
